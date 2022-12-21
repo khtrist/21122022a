@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\obj\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\obj\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\obj\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\obj\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\obj\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\bin\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.exe
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\bin\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.deps.json
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\bin\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\bin\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\bin\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.dll
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\bin\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.pdb
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\obj\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.dll
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\obj\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.pdb
+D:\Visual Studi Code Academy Lessons or\21 12 2022 EV TAPSIRIQ\obj\Debug\netcoreapp3.1\21 12 2022 EV TAPSIRIQ.genruntimeconfig.cache
